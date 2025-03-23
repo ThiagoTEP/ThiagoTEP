@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.MY_GITHUB_TOKEN }}  # Aqui você coloca o token
       - name: Generate GitHub Readme Stats
-        uses: anuraghazra/github-readme-stats@v2
+        uses: anuraghazra/github-readme-stats@v2  # Verifique se esta URL está correta
         with:
-          username: ThiagoTEP  # Seu nome de usuário GitHub
-          token: ${{ secrets.MY_GITHUB_TOKEN }}  # Novo token de acesso
+          username: ThiagoTEP  # Seu nome de usuário do GitHub
+          token: ${{ secrets.MY_GITHUB_TOKEN }}  # Certifique-se de que o token seja o correto
