@@ -14,8 +14,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.MY_GITHUB_TOKEN }}  # Aqui você coloca o token
       - name: Generate GitHub Readme Stats
         uses: anuraghazra/github-readme-stats@v2
         with:
-          username: ThiagoTEP
-          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          username: ThiagoTEP  # Seu nome de usuário GitHub
+          token: ${{ secrets.MY_GITHUB_TOKEN }}  # Novo token de acesso
