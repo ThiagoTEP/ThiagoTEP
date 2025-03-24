@@ -133,8 +133,22 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
-###
 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+
+###
+<h2 align="center"></h2>
+
+###
+
+###
+<h2 align="center">Sobre mim</h2>
+
+###
+
+<p align="center">✨  "A criar bugs desde 2020" 😂 ...<br>📚  "Formado como Desenvolvedor Web com notas máximas—transformando linhas de código em inovação e ideias em realidade… e agora sou um criador autónomo de bugs!" 😂 <br>📚 Atualmente, sou estudante de Desenvolvimento de Software na 42 Porto. A 42 é uma escola de programação reconhecida internacionalmente, com campus em todo o mundo. A sua metodologia única, baseada em projetos e na aprendizagem entre pares, foi reconhecida por grandes empresas tecnológicas como a Google, a Microsoft, a Amazon e muitas outras. Os graduados da 42 são altamente procurados na indústria, uma vez que a escola foca na resolução de problemas do mundo real, no pensamento crítico e na autonomia no desenvolvimento de software.<br>🎯 Goals: "Escrever código limpo. Perceber realmente recursão. Evitar o Stack Overflow por um dia." 😂 ...<br>🎲 Fun fact: "Comecei a programar só para tornar uma linha de produção numa fábrica mais eficiente… agora não consigo parar! Depois, comecei a querer automatizar tudo em casa também!" 😂 <br><br><br><br> 
+
+
