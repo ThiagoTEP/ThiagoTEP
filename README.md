@@ -100,6 +100,14 @@
 
 ###
 
+
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoTEP/ThiagoTEP/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ###
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoTEP&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -119,7 +127,7 @@
 </div>
 
 ###
- 
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
