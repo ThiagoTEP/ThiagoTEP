@@ -116,6 +116,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ThiagoTEP&theme=vue-dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+###
+
+<h2 align="center">Connect With me!</h2>
+
+###
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/thigodpaula/" target="_blank">
