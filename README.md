@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">✨ Creating bugs since 2020 ...<br>📚 I'm currently a Software Development student at 42 Porto. 42 is an internationally acclaimed coding school with campuses around the world. Its unique peer-to-peer, project-based methodology has been recognized by top tech companies such as Google, Microsoft, Amazon, and many others. 42 graduates are highly sought after in the industry, as the school focuses on real-world problem-solving, critical thinking, and autonomy in software development.<br>🎯 Goals: "Write clean code. Actually understand recursion. Avoid Stack Overflow for a day." 😂 ...<br>🎲 Fun fact: I got into coding just to make a factory production line run smoother… now I can't stop! Then I started wanting to automate everything at home too! 😂</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoTEP&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Evaristo de Paula github stats"/> 
