@@ -138,9 +138,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+<p>
+  <br><br><br><br>
+</p>
 
 ###
-<h2 align="center"></h2>
+<h1 align="center"> "Congrats! You’ve scrolled far enough. Welcome to the PORTUGUESE VERSION!" 🎉😂</h1>
 
 ###
 
@@ -151,4 +154,61 @@
 
 <p align="center">✨  "A criar bugs desde 2020" 😂 ...<br>📚  "Formado como Desenvolvedor Web com notas máximas—transformando linhas de código em inovação e ideias em realidade… e agora sou um criador autónomo de bugs!" 😂 <br>📚 Atualmente, sou estudante de Desenvolvimento de Software na 42 Porto. A 42 é uma escola de programação reconhecida internacionalmente, com campus em todo o mundo. A sua metodologia única, baseada em projetos e na aprendizagem entre pares, foi reconhecida por grandes empresas tecnológicas como a Google, a Microsoft, a Amazon e muitas outras. Os graduados da 42 são altamente procurados na indústria, uma vez que a escola foca na resolução de problemas do mundo real, no pensamento crítico e na autonomia no desenvolvimento de software.<br>🎯 Goals: "Escrever código limpo. Perceber realmente recursão. Evitar o Stack Overflow por um dia." 😂 ...<br>🎲 Fun fact: "Comecei a programar só para tornar uma linha de produção numa fábrica mais eficiente… agora não consigo parar! Depois, comecei a querer automatizar tudo em casa também!" 😂 <br><br><br><br> 
 
+###
 
+###
+
+###
+<h2 align="center">🚀 Tech Stack</h2>
+
+###
+
+<p>
+  
+### 🌐 Frontend  
+- 🎨 **HTML5**  
+- 🎨 **CSS**  
+- ⚡ **JavaScript**  
+- 💎 **jQuery**  
+- 🅱️ **Bootstrap**  
+- ⚛️ **React**  
+
+### 🖥️ Backend & Database  
+- 🐘 **PHP**  
+- 🛢️ **MySQL**  
+- 🔥 **Node.js**  
+- 🌐 **Apache**  
+- 🍏 **MAMP**  
+
+### 🛠️ DevOps & Tools  
+- 🐳 **Docker**  
+- 🐚 **Shell**  
+- 🖥️ **Bash**  
+
+### 🔗 Version Control  
+- 🛠️ **Git**  
+- 🌍 **GitHub**  
+
+### 🎯 Programming Languages  
+- 🔵 **C**  
+- 🔵 **C++**  
+- 🟣 **C#**
+
+### 📚 Languages I'm Currently Learning 
+- 🔵 **C**  
+- 🔵 **C++**  
+- 🟣 **C#**
+
+### 🛠️ Development Tools  
+- 🖥️ **VS Code**
+- ✍️ **Sublime Text**
+- 🖥️ **Vim**  
+- 🐧 **Linux**  
+- 🖥️ **Windows**  
+
+### 💬 Communication & Design  
+- 💬 **Slack**  
+- 🎨 **Canva**  
+- 🖌️ **GIMP** 
+  
+</p>
